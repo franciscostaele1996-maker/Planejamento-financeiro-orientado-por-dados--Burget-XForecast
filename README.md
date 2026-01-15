@@ -3,6 +3,8 @@ Planejamento financeiro orientado por dados- Burget XForecast
 
 
 Desenvolvi modelo financeiro FP&A com Budget, Actual e Rolling Forecast, utilizando Excel avançado (PREVISÃO.ETS, análise de desvios e cenários).
+
+
 • Estruturei forecast planejado e realizado, gerando análises de variação e suporte à tomada de decisão gerencial.
 
 "Eu não uso forecast só como número, eu uso para explicar comportamento financeiro e antecipar risco".
