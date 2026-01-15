@@ -1,3 +1,6 @@
+"Traduz sempre para o Inglês, isso evita que as Escritas não apareçam fora do contexto"
+
+
 # Planejamento-financeiro-orientado-por-dados--Burget-XForecast
 Planejamento financeiro orientado por dados- Burget XForecast
 
